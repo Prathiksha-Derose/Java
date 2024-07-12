@@ -1,0 +1,109 @@
+1.What is java?
+2.Why are we go for java?
+3.What are the main features of java?
+4.What is platform independent?
+5.What is mean by Open Source?
+6.What are types of tools are used to execute java?
+7.What are difference between JDK,JVM,JRE?
+8.What is mean by oops?
+9.What are the coding Standard used in java?
+10.What is mean by class,method,object?
+11.What is mean by Encapsulation?
+12.What are the datatypes used in java?
+13.What is byte size and range of int datatypes?
+14.What is mean by Wrapper class?
+15.What is the main use of Scanner class?
+16.What are the methods available in Scanner Class?
+17.What is mean by inheritance?
+18.What are the ways to access the methods /data from another class?
+19.What is mean by polymorphism?
+20.What are the difference between method overloading and overriding?
+21.What are the types of inheritance?
+22.Why multiple inheritance is not supported in java?
+23.What are the difference between Multiple and Multilevel inheritance?
+24.What is mean by access specifier?
+25.What are the difference between public and protected?
+26.What is mean by Abstraction?
+27.What are the types of Abstraction?
+28.Can we create Object for Abstract class?
+29.What is mean by Interface?
+30.What are the difference between Abstract and Interface?
+31.What is mean by String?
+32.What are the method available in string?
+33.What is mean by constructor?
+34.Explain the types of constructor?
+35.Do constructors have any return type?
+36.Write a syntax for creating constructor?
+37.What are the rules for defining a constructor?
+38.Why a return type is not allowed for constructor?
+39.Can we declare constructor as 'private'?
+40.Why a compiler given constructor is called as default constructor?
+41.What is constructor chaining and how can it be achieved in Java?
+42.What are the difference between this() and super() ?
+43.What is the super class of all java?
+44.What are the types of variable?
+45.What is meant by local variable,instance variable,class/static variable?
+46.What is mean by static keyword in java?
+47.Can we override static method in java?
+48.Can we overload static method in java?
+49.What is mean by static variable?
+50.What is mean by static method?
+51.What is mean by final keyword and what's happend when we declare final as in class,method,variable?
+52.What is difference between final and finally keyword?
+53.Where local,static and class variables stores in jvm?
+54.What is Exception?
+55.Explain about types of Expection?
+56.What are the difference between checked expection and unchecked expection?
+57.What is the super class for Exception and Error?
+58.Can we have try block without catch block?
+59.Can we write multiple catch blocks under single try block?
+60.How to write user defined exception or custom exception in java?
+61.What are the different ways to print exception message on console?
+62.What are the differences between final finally and finalize in java?
+63.What are the differences between throw and throws?
+64.Explain Java Exception Hierarchy?
+65.What is mean by throw and throws?
+66.What is mean by array?
+67.What are the advantages and disadvantages of array?
+68.Write a code to intialise array?
+69.Can we change the memory size of array after intialization?
+70.What is collection ?
+71.What is the difference between ArrayList and Vector?
+72.What is the difference between ArrayList and LinkedList?
+73.How to convert Array to List and List to Array?
+74.Describe the Collections type hierarchy. What are the main interfaces?
+75.What is difference between set and List?
+76.What is the difference between HashSet and TreeSet ?
+77.How to convert List into Set?
+78.What is map?
+79.What is difference between Hash Map and Hash Table?
+80.What is difference between set and Map?
+81.Can we iterator the list using normal for loop?
+82.What are the methods available in list But not in set?
+83.Explain about user defined Map?
+84.How much null allows in below maps:
+   HashMap :k?,v?
+   LinkedHashMap:k?,v?
+   TreeMap :k?,v?
+   HashTable :k?,v?
+85.How to Iterate Map?
+86.What is the return type of entrySet?
+87.Write the methods to get the key only and value only?
+88.What is mean by File? In which package it is available?
+89.What are the methods available in File ?
+90.While creating a file if we not mention the format then under which format it will save the file?
+91.What are the difference between append and updating the file?
+92.What is mean by Enumerator,Iteratorand List Iterator?
+93.Difference between Enumurator,Iterator and List Iterator?
+94.What are the methods available in Enumerator,Iteratorand List Iterator?
+95.Explain JDBC connection steps?
+96.What are control statement?
+97.What are the difference between
+    break and continue
+   while and do while
+   if and if else
+   immutable and mutable string
+   Remove all() and Retain all()
+98.What is the default Package in java?
+99.What are the difference between equals() & hashcode()?
+100.How can we make Array list As a synchronized?
