@@ -108,3 +108,4 @@ Update the project
 98.What is the default Package in java?
 99.What are the difference between equals() & hashcode()?
 100.How can we make Array list As a synchronized?
+101.what is software testing?
